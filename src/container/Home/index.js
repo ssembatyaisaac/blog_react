@@ -1,5 +1,4 @@
 import React from 'react';
-import Header from '../../component/Header';
 import './style.css';
 
 /**
@@ -10,7 +9,7 @@ import './style.css';
 const Home = (props) => {
   return(
     <div>
-        
+        Home
     </div>
    )
 
